@@ -1,5 +1,6 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7FF7,100:A97FFF&&animation=twinkling&height=200&section=header&text=Kimcurly`s%20GitHub&desc=Develop%20Portfolio&descAlign=75&fontSize=70&fontColor=ffffff&fontAlignY=35" />
+  
   <h1>🚪 INTRO</h1>
   <a href="https://www.instagram.com/xyunjun_0728/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
   <a href="https://kimmohu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a>
@@ -29,7 +30,7 @@
   
   <h1>🌟 MOST USED</h1>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimcurly&layout=compact&theme=tokyonight)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimcurly&show_icons=true&theme=radical)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanbonai0728)](https://solved.ac/sanbonai0728)
