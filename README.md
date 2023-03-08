@@ -1,6 +1,9 @@
 <div align="center">
-
-  <h1>🛠️ Stacks</h1>
+  <h1>🚪 INTRO</h1>
+  <a href="https://www.instagram.com/xyunjun_0728/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
+  
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimcurly&count_bg=%2360F2FF&title_bg=%23323330&icon=javascript.svg&icon_color=%23F0DB4F&title=hits&edge_flat=false"/></a>                     
+  <h1>🛠️ STACKS</h1>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -21,6 +24,11 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   <br />
   
+  <h1>🌟 MOST USED</h1>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimcurly&show_icons=true&theme=radical)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanbonai0728)](https://solved.ac/sanbonai0728)
   
 </div>
