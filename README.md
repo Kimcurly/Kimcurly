@@ -1,6 +1,9 @@
 <div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
   <h1>🚪 INTRO</h1>
   <a href="https://www.instagram.com/xyunjun_0728/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
+  <a href="https://kimmohu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a>
+  <a href="sanbonai0728@gmail.com"><img src="https://img.shields.io/badge/sanbonai0728@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
   
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimcurly&count_bg=%2360F2FF&title_bg=%23323330&icon=javascript.svg&icon_color=%23F0DB4F&title=hits&edge_flat=false"/></a>                     
   <h1>🛠️ STACKS</h1>
