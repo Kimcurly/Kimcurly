@@ -13,6 +13,7 @@
   
   <h1>🏃History</h1>
   <div align="left">
+    <li>안산디자인문화고등학교 미디어콘텐츠과 <sub>(2020.03 ~ 2022.12)</sub></li>
     <li><a href="http://m.kmaa.kr/">한국마케팅광고협회</a> 도제 실습 <sub>(2021.09 ~ 2021.12)</sub></1i>
     <li><a href="https://harubook.com/">에스프레소북</a> 도제 실습 <sub>(2022.03 ~ 2022.07)</sub></1i>
     <li><a href="http://ksict.com/">신성ICT</a> 도제 실습 <sub>(2022.09 ~ 2022.12)</sub></1i>
