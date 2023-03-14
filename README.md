@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7FF7,100:A97FFF&&animation=twinkling&height=220&section=header&text=Kimcurly`s%20GitHub&desc=Develop%20Portfolio&descAlign=75&fontSize=70&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7FF7,100:A97FFF&animation=twinkling&height=220&section=header&text=Kimcurly`s%20GitHub&desc=Develop%20Portfolio&descAlign=75&fontSize=70&fontColor=ffffff&fontAlignY=35" />
   
   <h1>🚪 INTRO</h1>
   <a href="https://kimmohu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a>
@@ -49,5 +49,5 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimcurly&show_icons=true&theme=radical)
   
-  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF7FF7,100:A97FFF&height=100&section=footer)
 </div>
