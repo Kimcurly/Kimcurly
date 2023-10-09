@@ -1,8 +1,8 @@
 
   <h2>🚪 INTRO</h2> 
-  <h3>안녕하세요. 한국공학대학교 소프트웨어학과 재학 중인 개발자 김현준입니다. 🙌 </h3>
+  안녕하세요. 한국공학대학교 소프트웨어학과 재학 중인 개발자 김현준입니다. 🙌 
 
-  <br />
+  <h3></h3>
 
   <a href="https://kimmohu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a>
   <a href="sanbonai0728@gmail.com"><img src="https://img.shields.io/badge/sanbonai0728@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
