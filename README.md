@@ -12,7 +12,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimcurly&count_bg=%23AFF9FB&title_bg=%2348DBF9&icon=github.svg&icon_color=%23F3EFEF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimcurly&count_bg=%23B1F3A8&title_bg=%238AF143&icon=github.svg&icon_color=%23F3EFEF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
   
-  <h2>🏃 HISTORY</h2>
+  <h2>🏃HISTORY</h2>
   <div align="left">
     <li>안산디자인문화고등학교 미디어콘텐츠학과 <sub>(2020.03 ~ 2022.12)</sub></li>
     <li>신성ICT 실습 <sub>(2022.09 ~ 2022.12)</sub></1i>
