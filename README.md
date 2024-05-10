@@ -19,7 +19,6 @@
     <li>한국공학대학교 AI소프트웨어학과 <sub>(2023.03 ~)</sub></1i>
     <li>2nd 테커 파트너스 팀장 <sub>(2023.03 ~ 2023. 06)</sub></1i>
     <li>4th UMC WEB 파트 <sub>(2023.03 ~ 2023.08)</sub></1i>
-    <li>함께하는 모험 | <a href="https://github.com/AVEN-SW">AVEN</a> <sub>(2023.05 ~)</sub></li>
     <li>닭발공작소 홈페이지 외주 프론트엔드 개발 <sub>(2023.08 ~ 2023.09)</sub></1i>
     <li>셀러창업클럽 마진율 계산기 외주 프론트엔드 개발 <sub>(2023.09 ~)</sub></1i>
       <li>Naviworks Web Engineer <sub>(2024. 02 ~)</sub></li>
